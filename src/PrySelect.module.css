@@ -1,0 +1,63 @@
+  .container {
+    width: 80%;
+    max-width: 600px;
+    margin: 0 auto; 
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .formulaContainer {
+    margin-bottom: 20px;
+  }
+  
+  .resultContainer {
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+  }
+  
+  .error {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .react-select-container {
+    margin-bottom: 10px;
+  }
+  
+  .react-select__control {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    min-height: 38px;
+    box-shadow: none;
+  }
+  
+  .react-select__menu {
+    border: 1px solid #ccc;
+    border-top: none;
+    border-radius: 0 0 4px 4px;
+  }
+  
+  .react-select__option--is-selected {
+    background-color: #f0f0f0;
+    color: #333;
+  }
+  
+  .react-select__option--is-focused {
+    background-color: #e0e0e0;
+  }
+  
+  .react-select__multi-value__label {
+    color: #333;
+  }
+  
+  .react-select__indicator-separator {
+    display: none;
+  }
+
+  .text{
+    font-size: 20px;
+  }
+  
